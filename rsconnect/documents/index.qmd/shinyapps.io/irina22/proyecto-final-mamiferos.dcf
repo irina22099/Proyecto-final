@@ -1,0 +1,15 @@
+name: proyecto-final-mamiferos
+title: proyecto-final-mamiferos
+username:
+account: irina22
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9447072
+bundleId: 7449390
+url: https://irina22.shinyapps.io/proyecto-final-mamiferos/
+when: 1689184412.21178
+lastSyncTime: 1689184412.21185
+quarto_version: 1.3.353
+quarto_engines: knitr
+asMultiple: FALSE
+asStatic: FALSE
